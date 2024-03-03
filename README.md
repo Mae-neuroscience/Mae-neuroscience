@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Mae-neuroscience
+- 👀 I’m interested in brain, data analysis (EEG, ECG, respiration, EDA, pupillometry...) and food :) 
